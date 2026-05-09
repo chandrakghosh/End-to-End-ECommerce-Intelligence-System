@@ -1,0 +1,4 @@
+Model,Problem Type,Target / Output,Business Use Case
+Late Delivery Prediction,Classification,is_late,Predict orders likely to be delivered late
+Bad Review Prediction,Classification,bad_review,Predict orders likely to receive poor customer review
+Customer Segmentation,Clustering,customer_segment,Group customers by purchase behavior
